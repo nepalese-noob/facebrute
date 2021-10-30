@@ -37,6 +37,13 @@ And clone our tool by
 *. git clone https://github.com/nepalese-noob/facebrute
 
 cd facebrute
+
+*.  sudo easy_install pip
+
+*.  sudo pip install pillow
+
+*.  sudo apt-get install python3-tk
+
 python3 hack.py
 Or
 python hack.py
